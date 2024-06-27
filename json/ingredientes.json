@@ -7,27 +7,31 @@
         { "id": 5, "nombre": "Tallarines" },
         { "id": 6, "nombre": "Papa" },
         { "id": 7, "nombre": "Cebolla" },
-        { "id": 8, "nombre": "Camote" }
+        { "id": 8, "nombre": "Choclo" },
+        { "id": 9, "nombre": "Zanahoria" },
+        { "id": 10, "nombre": "Camote" },
+        { "id": 11, "nombre": "Lechuga" },
+        { "id": 12, "nombre": "Alberjita" }
         ],
     "recetas": [
         {
             "nombre": "ARROZ CON POLLO",
-            "ingredientes": [1, 2],
+            "ingredientes": [1, 2, 7, 8],
             "imagen": "img/imagen.jpeg"
         },
         {
             "nombre": "POLLO A LA BRASA",
-            "ingredientes": [1, 6],
+            "ingredientes": [1, 6 , 9 , 4, 11],
             "imagen": "img/imagen2.jpg"
         },
         {
             "nombre": "TALLARINES ROJOS",
-            "ingredientes": [5, 1 , 4],
+            "ingredientes": [5, 1 , 4 , 12],
             "imagen": "img/imagen3.jpg"
         },
         {
             "nombre": "CEVICHE",
-            "ingredientes": [3, 7 , 8],
+            "ingredientes": [3, 7 , 8, 11 , 10],
             "imagen": "img/imagen4.jpg"
         }
     ]
