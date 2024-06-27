@@ -1,0 +1,34 @@
+{
+    "ingredientes": [
+        { "id": 1, "nombre": "Pollo" },
+        { "id": 2, "nombre": "Arroz" },
+        { "id": 3, "nombre": "Pescado"},
+        { "id": 4, "nombre": "Tomate" },
+        { "id": 5, "nombre": "Tallarines" },
+        { "id": 6, "nombre": "Papa" },
+        { "id": 7, "nombre": "Cebolla" },
+        { "id": 8, "nombre": "Camote" }
+        ],
+    "recetas": [
+        {
+            "nombre": "ARROZ CON POLLO",
+            "ingredientes": [1, 2],
+            "imagen": "img/imagen.jpeg"
+        },
+        {
+            "nombre": "POLLO A LA BRASA",
+            "ingredientes": [1, 6],
+            "imagen": "img/imagen2.jpg"
+        },
+        {
+            "nombre": "TALLARINES ROJOS",
+            "ingredientes": [5, 1 , 4],
+            "imagen": "img/imagen3.jpg"
+        },
+        {
+            "nombre": "CEVICHE",
+            "ingredientes": [3, 7 , 8],
+            "imagen": "img/imagen4.jpg"
+        }
+    ]
+}
