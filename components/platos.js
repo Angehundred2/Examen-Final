@@ -21,7 +21,7 @@ export default {
             </div>
 
             <div class="resultado" v-else>
-                <h2>No hay resultados</h2>
+                <h2 class="resultado-texto">!NO HAY RESULTADOS¡</h2>
             </div>
         </div>
     `,
